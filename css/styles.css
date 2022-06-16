@@ -185,7 +185,23 @@ body {
   }
   
   #cta {
-    padding: 20px 0;
+    padding: 60px 0;
+  }
+  
+  #features {
+    padding: 0 0 5rem 0;
+  }
+  
+  #testimonials {
+    padding: 60px 0;
+  }
+  
+  #press {
+    padding-bottom: 60px;
+  }
+  
+  #pricing {
+    padding: 60px 0;
   }
 
 }

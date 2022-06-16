@@ -210,6 +210,12 @@ body {
   .navbar-brand {
     font-size: 1.25rem;
   }
+  
+  .download-button {
+    padding: .25rem .5rem;
+    font-size: .875rem;
+    border-radius: .2rem;
+}
 
 }
 

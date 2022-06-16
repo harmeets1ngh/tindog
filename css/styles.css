@@ -63,6 +63,9 @@ body {
 
 .download-button {
   margin: 5% 3% 5% 0;
+  padding: .5rem 1rem;
+  font-size: 1.25rem;
+  border-radius: .3rem;
 }
 
 .title-image {

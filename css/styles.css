@@ -203,6 +203,10 @@ body {
   #pricing {
     padding: 60px 0;
   }
+  
+  .navbar-brand {
+    font-size: 1.25rem;
+  }
 
 }
 

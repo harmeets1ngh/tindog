@@ -92,6 +92,26 @@ body {
   h1 {
     font-size: 2rem;
   }
+  
+  h2 {
+    font-size: 1.5rem;
+  }
+  
+  .press-image {
+    width: 40%;
+  }
+  
+  .cta-text {
+    font-size: 1.7rem;
+  }
+  
+  .download-button {
+    margin-top: 30px;
+  }
+  
+  #cta {
+    padding: 20px 0;
+  }
 
 }
 
